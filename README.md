@@ -73,8 +73,4 @@ gcc filename.c -o output
 
 ---
 
-## 📌 Status
-- ✔ Labs 1–4 uploaded  
-- ➕ More programs will be added  
-- 📈 Planning to add mini-projects next  
 
